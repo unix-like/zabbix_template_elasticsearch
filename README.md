@@ -10,7 +10,7 @@
 | relocating shards     |                              |
 | unassigned shards     |
 
-对ES集群健康状态进行监控，监控数据的采集也实现并行收集，此监控项目共包含2个文件:
+适用于zabbix3.4及以上版本,对ES集群健康状态进行监控，监控数据的采集也实现并行收集，此监控项目共包含2个文件:
 
 1. userparameter_elasticsearch.conf
 2. elasticsearch.xml
